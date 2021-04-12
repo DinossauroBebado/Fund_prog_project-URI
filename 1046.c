@@ -1,6 +1,7 @@
-
 #include <stdio.h>
-////////////////////////////Runtime error
+#include <stdlib.h>
+#include <string.h>
+
 int main(){
 
 int i,f,d;
@@ -19,5 +20,7 @@ else if(i>f){
     d = (24-i) + f;
 }
 printf("O JOGO DUROU %d HORA(S)\n",d);
+
+return 0;
 
 }
