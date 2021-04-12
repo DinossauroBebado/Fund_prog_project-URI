@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(){
+int n,f[100]; 
+scanf("%d",&n);
+
+while(f<n){
+    
+    
+}
+
+
+
+}

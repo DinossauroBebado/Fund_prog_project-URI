@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-char s[50] = "LIFE IS NOT A PROBLEM TO BE SOLVED";
+char s[34] = "LIFE IS NOT A PROBLEM TO BE SOLVED";
 int n,i ;
 scanf("%d",&n);
 
