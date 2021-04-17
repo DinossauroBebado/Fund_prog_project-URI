@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 int main(){
     int cont = 0 ;
@@ -12,4 +14,5 @@ int main(){
         }
     }while(cont<2);
     printf("media = %.2f\n",(nota[0]+nota[1])/2);
+    return 0;
 }
