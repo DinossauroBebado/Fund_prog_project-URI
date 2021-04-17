@@ -1,0 +1,13 @@
+
+int main(){
+int p,j1,j2,r,a,s,ganha;
+scanf("%d %d %d %d %d", &p, &j1, &j2, &r, &a);
+
+if(p){
+   if(j1+j)     
+        
+}
+printf("Jogador %d ganha!\n",ganha);
+
+return 0;
+}
