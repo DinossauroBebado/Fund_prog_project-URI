@@ -1,0 +1,25 @@
+int main(){
+  int m,n,i,min;
+  float nota,max_m,max_n;
+  max = 0;
+  min = 0;
+  scanf("%d",&n);
+  for(i=0;i<n;i++){
+    scanf("%d %f", &m, &nota);
+    if(nota>max){
+        max = m;
+        if(nota>=8){
+            min = 1;
+        }
+
+    }
+  }
+    if(min){
+        printf("%d\n",max);
+    }else{
+         printf("Minimum note not reached\n");
+    }
+
+
+    return 0;
+}

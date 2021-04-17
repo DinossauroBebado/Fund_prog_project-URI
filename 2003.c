@@ -13,6 +13,5 @@ while (scanf("%d:%d", &horas, &minutos) != EOF){
      printf("Atraso maximo: %d\n",atraso);
     }
 }
-
-
+return 0;
 }
