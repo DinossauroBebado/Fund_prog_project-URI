@@ -1,0 +1,32 @@
+
+#include <stdio.h>
+ 
+int main() {
+ int i, n, h, ant, direcao = 0, padrao = 1;
+ 
+ scanf("%d",&n);
+ scanf("%d",ant);
+ scanf("%d",h);
+ 
+ if(ant-h>0)
+    direcao = 1;
+ ant = h;
+ for(i=2;i<n;i++){
+    scanf("%d",h);
+    if(direcao){
+        ant-h>
+    }
+    
+    
+    
+    
+    
+    
+ }
+ 
+ 
+    return 0;
+}
+
+
+
