@@ -8,7 +8,6 @@ int main(){
     scanf("%d",&n);
     for(i=0;i<n;i++){
         scanf("%d",&num);
-        printf("%d\n",num);
         if(num%2==0){
            count2 ++ ;
         }
